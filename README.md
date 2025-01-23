@@ -1,25 +1,3 @@
-[//]: # (# Trashure)
-
-[//]: # ()
-[//]: # (Trashure is a waste management application designed to help users effectively manage and recycle their waste. With an intuitive interface and innovative features, Trashure aims to raise awareness about sustainability and support better waste management practices.)
-
-[//]: # ()
-[//]: # (## Key Features)
-
-[//]: # ()
-[//]: # (-)
-
-[//]: # ()
-
-# Greenlify
-
-<p align="center">
-  <img src="https://ik.imagekit.io/3s8oi0rad/Members/logo-erstalent.png?updatedAt=1734036269066" alt="Trashure Logo" width="200" height="220">
-</p>
-<p align="justify">
-Greenlify is a waste management application designed to help users effectively manage and recycle their waste. With an intuitive interface and innovative features, Trashure aims to raise awareness about sustainability and support better waste management practices.
-</p>
-
 ## Prerequisites
 
 Before you begin, ensure you have the following software installed on your system:
